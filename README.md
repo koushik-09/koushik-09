@@ -18,9 +18,6 @@ I am a student, currently pursuing 3rd year of Engineering in Computer Science.<
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=koushik-09&icon=0&color=0)](https://visitcount.itsvg.in)
 
