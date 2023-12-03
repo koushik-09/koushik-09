@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a student, pursuing final year of Engineering in Computer Science.<br>I am looking forward for any internship opportunities.<br>I am currently learning Data Structures and Algorithms, Spring Boot.<br>I am fluent in languages like C, Java, Python, SQL.
+I am a student, pursuing final year of Engineering in Computer Science.<br>I am looking forward for any internship or Full-time opportunities.<br>I am currently learning Data Structures and Algorithms, Spring Boot.<br>I am fluent in languages like C, Java, Python, SQL.
 
 
 ## 🌐 Socials:
